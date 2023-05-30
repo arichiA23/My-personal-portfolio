@@ -40,6 +40,7 @@ function Home() {
         </Container>
       </Container>
       <Home2 />
+     <Home3/>          
     </section>
   );
 }
